@@ -1,0 +1,41 @@
+body{
+    height:100%;
+    width:100%;
+    background-color:rgb(245,240,244);
+    font-family: Orbitron;
+}
+
+.container{
+    background-color:rgb(245,240,244) ;
+   background: url(https://img.freepik.com/premium-photo/gold-frame-with-picture-frame-that-says-number-1_662214-104375.jpg)  no-repeat;
+   background-size: 100%;
+   margin:auto;
+   height:27vw;
+   width:40vw;
+   margin-top:8%;
+   position:relative;
+   max-width:477px ;
+   max-height:649px ;
+   min-width: 477px;
+   min-height: 649px;
+}
+
+#clock{
+    text-align: center;
+    padding-top: 20%;
+    font-weight: bolder;
+    font-size: 200%;
+}
+
+input{
+    position: absolute;
+    left: 30%;
+    font-size: large;
+}
+
+.controls{
+    margin: 6% 29.7%;
+}
+.controls button{
+    margin: 1% 4.2%;
+}
